@@ -1,0 +1,26 @@
+.d1{background-color: #65FEFE;
+	border: solid #4D0084;
+
+}
+#d1{background-color: #65FEFE;
+	border: solid #4D0084;
+	position: absolute;
+	left: 110px;
+}
+.d2{background-color: #65FEFE;
+	border: solid #4D0084;
+	position: absolute;
+	left: 210px;
+}
+#d2{background-color: #65FEFE;
+	border: solid #4D0084;
+	position: absolute;
+	left: 310px;
+}
+.d3{background-color: #65FEFE;
+	border: solid #4D0084;
+	position: absolute;
+	left: 410px;
+}
+div{width: 80px;
+	top: 8px;}

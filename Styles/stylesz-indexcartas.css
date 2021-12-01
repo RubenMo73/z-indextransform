@@ -1,0 +1,49 @@
+body{background-color: lightsteelblue;}
+.carta{	height: 300px;
+	width: 200px;
+	border: solid black 2px;
+	border-radius: 8px;
+	background-color: white;
+	position: relative;}
+#cinco_corazones{position: relative;
+	left: 800px;
+	top: 100px;
+	transform: rotate(25deg);
+	color: red;}
+#invert{transform: rotate(180deg);
+	position: absolute;
+	right: 0px;
+	bottom: 0px;}
+.numero{font-size: 20px;}
+.simbolo{font-size: 20px;}
+#cinco_corazones>#cora1
+{
+	position:  absolute;
+	top:  65px;
+	left:  40px;
+}
+#cinco_corazones>#cora2
+{
+	position:  absolute;
+	top:  65px;
+	left:  150px;
+}
+#cinco_corazones>#cora3
+{
+	position:  absolute;
+	top:  125px;
+	left:  95px;
+}
+#cinco_corazones>#cora4
+{
+	position:  absolute;
+	top:  185px;
+	left:  40px;
+}
+#cinco_corazones>#cora5
+{
+	position:  absolute;
+	top:  185px;
+	left:  150px;
+}
+.corazon{font-size: 25px;}

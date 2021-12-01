@@ -1,0 +1,24 @@
+#d1{position: absolute;
+	left: 25px;
+	top: 20px;
+	z-index: -1;
+}
+.d2{position: absolute;
+	left: 40px;
+	top: 40px;
+	z-index: -2;
+}
+#d2{position: absolute;
+	left: 55px;
+	top: 60px;
+	z-index: -3;
+}
+.d3{position: absolute;
+	left: 70px;
+	top: 80px;
+	z-index: -4;
+}
+div{background-color: rgba(101, 254, 254, 0.75);
+	border: solid rgba(77, 0, 132, 0.75);
+	width: 80px;
+	top: 8px;}
