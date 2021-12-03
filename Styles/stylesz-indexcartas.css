@@ -14,8 +14,8 @@ body{background-color: lightsteelblue;}
 	position: absolute;
 	right: 0px;
 	bottom: 0px;}
-.numero{font-size: 20px;}
-.simbolo{font-size: 20px;}
+.numero{font-size: 25px;}
+.simbolo{font-size: 25px;}
 #cinco_corazones>#cora1
 {
 	position:  absolute;
@@ -46,4 +46,126 @@ body{background-color: lightsteelblue;}
 	top:  185px;
 	left:  150px;
 }
-.corazon{font-size: 25px;}
+.corazon{font-size: 35px;}
+#cuatro_trebol>#treb1
+{
+	position:  absolute;
+	top:  65px;
+	left:  40px;
+}
+#cuatro_trebol>#treb2
+{
+	position:  absolute;
+	top:  65px;
+	left:  150px;
+}
+#cuatro_trebol>#treb3
+{
+	position:  absolute;
+	top:  185px;
+	left:  150px;
+}
+#cuatro_trebol>#treb4
+{
+	position:  absolute;
+	top:  185px;
+	left:  40px;
+}
+.trebol{font-size: 35px;}
+#cuatro_trebol{position: relative;
+	left: 550px;
+	bottom: 885px;
+	transform: rotate(0deg);
+	z-index: -2;}
+#dos_trebol>#tre1
+{
+	position:  absolute;
+	top:  65px;
+	left:  95px;
+	transform: rotate(180deg);
+}
+#dos_trebol>#tre2
+{
+	position:  absolute;
+	top:  185px;
+	left:  95px;
+	transform: rotate(180deg);
+}
+#dos_trebol{position: relative;
+	left: 300px;
+	bottom: 200px;
+	transform: rotate(150deg);
+	z-index: -4;}
+#tres_picas>#picas1
+{
+	position:  absolute;
+	top:  65px;
+	left:  95px;
+	transform: rotate(180deg);}
+#tres_picas>#picas2
+{
+	position:  absolute;
+	top:  185px;
+	left:  90px;
+	transform: rotate(180deg);}
+#tres_picas>#picas3
+{
+	position:  absolute;
+	top:  125px;
+	left:  90px;
+	transform: rotate(180deg);}
+.picas{font-size: 35px;}
+#tres_picas{position: relative;
+	left: 400px;
+	bottom: 550px;
+transform: rotate(160deg);
+	z-index: -3;}
+#siete_trebol>#trebo1
+{
+	position:  absolute;
+	top:  45px;
+	left:  40px;
+}
+#siete_trebol>#trebo2
+{
+	position:  absolute;
+	top:  45px;
+	left:  150px;
+}
+#siete_trebol>#trebo3
+{
+	position:  absolute;
+	top:  85px;
+	left:  95px;
+}
+#siete_trebol>#trebo4
+{
+	position:  absolute;
+	top:  185px;
+	left:  40px;
+	transform: rotate(180deg);
+}
+#siete_trebol>#trebo5
+{
+	position:  absolute;
+	top:  125px;
+	left:  150px;
+}
+#siete_trebol>#trebo6
+{
+	position:  absolute;
+	top:  185px;
+	left:  150px;
+	transform: rotate(180deg);
+}
+#siete_trebol>#trebo7
+{
+	position:  absolute;
+	top:  125px;
+	left:  40px;
+}
+#siete_trebol{position: relative;
+	left: 650px;
+	bottom: 1170px;
+	transform: rotate(15deg);
+	z-index: -1;}
